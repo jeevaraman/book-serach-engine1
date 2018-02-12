@@ -1,0 +1,39 @@
+&lt;com.FontAwesome.Example.ButtonAwesome
+
+
+
+            android:layout_width="wrap_content"
+
+
+
+            android:layout_height="wrap_content"
+
+
+
+            android:text="@string/fa_plus"
+
+
+
+            android:id="@+id/addButton"
+
+
+
+            android:clickable="true" />
+
+        &lt;com.FontAwesome.Example.ButtonAwesome
+
+
+
+            android:layout_width="wrap_content"
+
+
+
+            android:layout_height="wrap_content"
+
+
+
+            android:text="@string/fa_search"
+
+
+
+            android:id="@+id/findButton"/>
